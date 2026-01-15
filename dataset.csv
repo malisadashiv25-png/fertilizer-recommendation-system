@@ -1,0 +1,7 @@
+N,P,K,temperature,humidity,ph,crop,fertilizer
+90,40,40,30,70,6.5,Rice,Urea
+80,50,40,28,65,6.8,Wheat,DAP
+60,30,30,25,60,6.0,Maize,Potash
+70,35,45,27,68,6.2,Rice,DAP
+85,45,35,29,72,6.7,Wheat,Urea
+50,25,30,24,55,5.8,Maize,Potash
